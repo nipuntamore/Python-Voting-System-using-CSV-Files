@@ -27,3 +27,6 @@ The system is ideal for:
   Educational purposes to demonstrate core Python concepts
 <br>
   Beginners who want to learn Python file handling and project structuring
+<br>
+<br>
+*NOTE--Please go through the attached document for user manual
